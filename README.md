@@ -57,6 +57,5 @@ Each project’s Jupyter notebook is ready to run in Google Colab, with necessar
 
 ## Author
 
-Apurva Karne
-
+Shruti Goyal
 For more information on each project, refer to the respective notebooks and the video script for a detailed walkthrough.
