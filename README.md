@@ -1,5 +1,5 @@
 # Apache Beam and Data Engineering Projects
-
+### Youtube video: https://youtu.be/RZ7ilWy9jm4
 This repository contains three distinct data engineering projects, each focusing on different aspects of data exploration, automated analysis, and data pipeline transformations. These projects utilize tools like Apache Beam, D3.js, and Sweetviz for comprehensive data engineering and analysis tasks.
 
 ---
@@ -24,8 +24,6 @@ This repository is organized into three standalone projects, each demonstrating 
 
 - **Project 3: Apache Beam Pipelines**  
   Comprehensive Apache Beam demonstration covering data transformation, streaming, and advanced data engineering workflows.
-  
-Please find the Youtube video [link](https://youtu.be/Dii_OGr3vRk)
 
 ---
 
