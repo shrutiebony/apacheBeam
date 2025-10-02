@@ -1,34 +1,32 @@
-# Apache Beam and Data Engineering Projects
-### Youtube video: https://youtu.be/RZ7ilWy9jm4
-This repository contains three distinct data engineering projects, each focusing on different aspects of data exploration, automated analysis, and data pipeline transformations. These projects utilize tools like Apache Beam, D3.js, and Sweetviz for comprehensive data engineering and analysis tasks.
+## Apache Beam and Data Engineering Projects
+#### Youtube video: https://youtu.be/RZ7ilWy9jm4
+such as Apache Beam, D3.js, and Sweetviz to demonstrate real-world data engineering workflows.
 
----
+### Project Overview
+#### Project 1: Exploratory Data Analysis (EDA) with D3.js
+1) Interactive and custom visualizations powered by D3.js
+2) Advanced, in-depth data insights with dynamic charts
+3) Tailored for rich exploratory analysis
+#### Project 2: Automated EDA with Sweetviz
+1) Quick, automated statistical summaries and visualizations
+2) Generates detailed HTML reports for faster decision-making
+3) Ideal for rapid dataset profiling
+#### Project 3: Apache Beam Pipeline Demonstration
+1) Hands-on Apache Beam examples covering:
+2) Data transformations
+3) Windowing & triggers
+4) Streaming workflows
+5) Demonstrates scalable, production-ready data engineering concepts
 
-## Project Overview
-
-This repository is organized into three standalone projects, each demonstrating unique data engineering capabilities:
-
-1. **Exploratory Data Analysis (EDA) with D3.js**: Advanced, interactive EDA using D3.js for in-depth data insights.
-2. **Automated EDA with Sweetviz**: Quick and appealing data profiling with Sweetviz for initial data exploration.
-3. **Apache Beam Pipeline Demonstration**: A deep dive into Apache Beam’s features, showcasing transformations, windowing, triggers, and streaming for large-scale data processing.
-
----
-
-## Key Features
-
+### Key Features
 - **Project 1: EDA with D3.js**  
   In-depth data exploration and custom visualizations with D3.js, providing high-quality insights and interactivity.
-
 - **Project 2: Automated EDA with Sweetviz**  
   Automated EDA using Sweetviz for fast and visually appealing statistical summaries and insights.
-
 - **Project 3: Apache Beam Pipelines**  
   Comprehensive Apache Beam demonstration covering data transformation, streaming, and advanced data engineering workflows.
 
----
-
-## Project Structure
-
+### Project Structure
 Each project is contained within its own directory for easy navigation:
 
 **ApacheBeam-DataEngineering-Assignment**
@@ -47,7 +45,7 @@ Each project is contained within its own directory for easy navigation:
 - `README.md`  - Project overview and structure
 
 
-## Usage
+### Usage
 
 Each project’s Jupyter notebook is ready to run in Google Colab, with necessary setup instructions provided within each notebook. Follow the instructions for installation of any required dependencies.
 
